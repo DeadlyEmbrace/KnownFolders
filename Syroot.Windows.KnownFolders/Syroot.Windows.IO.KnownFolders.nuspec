@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>http://www.wtfpl.net/txt/copying/</licenseUrl>
+    <projectUrl>https://github.com/Syroot/KnownFolders</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>WTFPL</copyright>
+    <tags>shell special folder folders directory directories windows winapi io pinvoke managed</tags>
+  </metadata>
+</package>
