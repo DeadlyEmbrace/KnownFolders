@@ -3,9 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Syroot.Windows.IO.KnownFolders", "Syroot.Windows.KnownFolders\Syroot.Windows.IO.KnownFolders.csproj", "{E61E05F2-AEAB-41DB-958F-1398D6BFFD3F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Syroot.Windows.IO.KnownFolders", "Syroot.Windows.IO.KnownFolders\Syroot.Windows.IO.KnownFolders.csproj", "{E61E05F2-AEAB-41DB-958F-1398D6BFFD3F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApplication", "TestApplication\TestApplication.csproj", "{7A6F593A-CBCF-4F46-B69F-D50FE6A38AE1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tools", "Tools", "{D5592D41-F8B0-4182-B8E7-5ED2956A7BCA}"
+	ProjectSection(SolutionItems) = preProject
+		Tools\Build NuGet.bat = Tools\Build NuGet.bat
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

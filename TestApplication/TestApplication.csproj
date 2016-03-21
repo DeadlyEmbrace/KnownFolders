@@ -44,7 +44,7 @@
     <None Include="Properties\app.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Syroot.Windows.KnownFolders\Syroot.Windows.IO.KnownFolders.csproj">
+    <ProjectReference Include="..\Syroot.Windows.IO.KnownFolders\Syroot.Windows.IO.KnownFolders.csproj">
       <Project>{e61e05f2-aeab-41db-958f-1398d6bffd3f}</Project>
       <Name>Syroot.Windows.IO.KnownFolders</Name>
     </ProjectReference>
