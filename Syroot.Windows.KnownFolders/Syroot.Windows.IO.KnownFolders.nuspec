@@ -6,7 +6,7 @@
     <title>$title$</title>
     <authors>$author$</authors>
     <owners>$author$</owners>
-    <licenseUrl>http://www.wtfpl.net/txt/copying/</licenseUrl>
+    <licenseUrl>https://raw.githubusercontent.com/Syroot/KnownFolders/master/COPYING</licenseUrl>
     <projectUrl>https://github.com/Syroot/KnownFolders</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
