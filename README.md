@@ -10,6 +10,8 @@ To read more about why most of the "lazy" solutions are wrong, have a look at my
 
 ## Usage
 
+Needless to say, install the NuGet package from the [NuGet gallery](https://www.nuget.org/packages/Syroot.Windows.IO.KnownFolders/1.0.0) first.
+
 The starting point is a `KnownFolder` instance, which represents exactly one special folder. It offers access to the following:
 
   - `string Path { get; set; }`: The current path (which might already be customized by the user). This is what you want in most cases.
